@@ -1,6 +1,6 @@
 package co.edu.cesde.ga.model;
 
-import java.util.Date;
+// Se traen los datos que requiere la lista segun el ejemplo
 
 public class person {
 private long userId;
